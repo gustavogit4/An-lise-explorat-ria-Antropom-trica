@@ -28,8 +28,5 @@ O dataset utilizado para este projeto é o **ANSUR I 1988**, que contém dados a
 
 ## Resultados Obtidos
 - Altura e peso possuem uma correlação positiva forte (0.74).
-- Homens apresentam maior média de peso e altura, mas também maior variação relativa no peso.
 - Diferença significativa na distribuição dos gêneros na amostra, com mais mulheres do que homens.
-
-## Próximos Passos
-- Investigar mais profundamente outras variáveis do dataset.
+- As mulheres apresentam uma maior consistência em relação ao peso enquanto que os homens apresentam uma maior consistência em relação a altura.
