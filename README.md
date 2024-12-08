@@ -1,9 +1,15 @@
 # Análise Exploratória de Dados - ANSUR I (1988)
 
 ## Objetivo
-Este projeto tem como objetivo realizar uma análise exploratória dos dados antropométricos do dataset ANSUR I 1988. Foco nas variáveis **altura (HEIGHT)** e **peso (WEIGHT)** para identificar padrões, tendências e diferenças por gênero.
+Este projeto tem como objetivo realizar uma análise exploratória dos dados antropométricos do dataset **ANSUR I 1988**, com foco nas variáveis altura (HEIGHT) e peso (WEIGHT), utilizando bibliotecas do Python como Pandas, Matplotlib e Seaborn. O objetivo é identificar padrões, tendências e diferenças por gênero.
+
+## Dataset
+O dataset utilizado para este projeto é o **ANSUR I 1988**, que contém dados antropométricos. Você pode acessar o dataset através do seguinte link:
+
+[Link para o dataset ANSUR I 1988](https://www.triolastats.com/es14-data-sets)
 
 ## Etapas Realizadas
+
 1. **Carregamento e inspeção dos dados:**
    - Visualização inicial do dataset.
    - Verificação de valores nulos e descrição estatística das variáveis.
@@ -28,6 +34,3 @@ Este projeto tem como objetivo realizar uma análise exploratória dos dados ant
 ## Próximos Passos
 - Definir o melhor tratamento para os outliers.
 - Investigar mais profundamente outras variáveis do dataset.
-- Melhorar as visualizações gráficas para destacar insights.
-
----
